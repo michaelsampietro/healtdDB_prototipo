@@ -1,0 +1,9 @@
+#pesquisaDocumentos {
+	display: none;
+}
+
+#pesquisaDados {
+	display: none;
+}
+
+.selectorpicker {height: absolute !important;}
